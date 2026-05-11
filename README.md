@@ -17,7 +17,7 @@ Dashboard interactivo basado en los Cuadros 1.7, 2.7 y 3.7 del Censo Nacional de
 
 ## Ver el dashboard
 
-[👉 Abrir dashboard en vivo]([https://ja-sotelo.github.io/Censo2022-Educacion_Corrientes/])
+[👉 Abrir dashboard en vivo](https://ja-sotelo.github.io/Censo2022-Educacion_Corrientes/)
 
 ## Fuente
 
